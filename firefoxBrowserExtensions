@@ -1,15 +1,18 @@
 1. uBlock Origin
-site: 
+site: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
 
 2. Tampermonkey
+site: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
 
 3. Lastpass (a password management tool)
+site: https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/
 
 4. Bypass Paywall
+site: https://github.com/iamadamdev/bypass-paywalls-firefox
 
 5. No Script
 
-6.Add custon search engine
+6. Add custon search engine
 
 7. Privacy Badger
 
@@ -18,6 +21,7 @@ site:
 9. Rss hub radar
 
 10. Enhance for Youtube™
+site: 
 
 11. Https Everywhere
 
